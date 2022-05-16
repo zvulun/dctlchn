@@ -9,9 +9,12 @@
 "","","Vehicle Make",""
 "Lanes Covered","","One",""
 "Max Vehicle Speed","","Up to 120 mph (193 km/h)",""
-"LPR Capture Distance*","","n G/GW-S-XX – 16-39 ft (5-12 m)",""
-"(for U.S.A. plates)","","n G/GW-L-XX – 33-65 ft (10-20 m)",""
-"","","n G/GW-XL-XX – 33-80 ft (10-24 m)",""
+"LPR Capture Distance* (for U.S.A. plates)","","* G/GW-S-XX – 16-39 ft (5-12 m)
+* G/GW-L-XX – 33-65 ft (10-20 m)
+* G/GW-XL-XX – 33-80 ft (10-24 m)
+",""
+"","","",""
+"","","",""
 "LPR Illumination","Number of LEDs","n  15 (same ones as for OV illumination)","n  10"
 "","Wavelength","n  G-XX-DR – Deep Red","n  GW-XX-DR – Deep Red"
 "","","n  G-XX-IR – Infrared","n  GW-XX-IR – Infrared"
@@ -22,9 +25,9 @@
 "LPR Camera","Shutter Type","Global",""
 "","Sensor","Sony IMX265",""
 "","Resolution","2mp - 1920 (H) × 1080 (V)",""
-"","Lens","n  G-S-XX – 12-40 mm;","n  GW-S-XX – 12-40 mm;"
-"","","Motorized Zoom and","Motorized Zoom and"
-"","","Auto-focus","Auto-focus"
+"","Lens","* G-S-XX – 12-40 mm; Motorized Zoom and Auto-focus","n  GW-S-XX – 12-40 mm;"
+"","","","Motorized Zoom and"
+"","","","Auto-focus"
 "","","n  G-L-XX – 12-40 mm;","n  GW-L-XX – 12-40 mm;"
 "","","Motorized Zoom and","Motorized Zoom and"
 "","","Auto-focus","Auto-focus"
