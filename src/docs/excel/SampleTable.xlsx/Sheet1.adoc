@@ -59,22 +59,19 @@
 2+^.^| Up to 120 mph (193 km/h)
 
 
-2.3+.^| LPR Capture Distance* (for U.S.A. plates)
+2+.^| LPR Capture Distance*
 
-2.3+.^| * G/GW-S-XX – 16-39 ft (5-12 m) +
-* G/GW-L-XX – 33-65 ft (10-20 m) +
-* G/GW-XL-XX – 33-80 ft (10-24 m) +
+2+.^| n G/GW-S-XX – 16-39 ft (5-12 m)
 
 
+2+.^| (for U.S.A. plates)
+
+2+.^| n G/GW-L-XX – 33-65 ft (10-20 m)
 
 
+2+.^| 
 
-
-
-
-
-
-
+2+.^| n G/GW-XL-XX – 33-80 ft (10-24 m)
 
 
 .7+.^| LPR Illumination
@@ -129,17 +126,17 @@
 
 
 .8+.^| Lens
-.3+.^| * G-S-XX – 12-40 mm; Motorized Zoom and Auto-focus
+.^| n  G-S-XX – 12-40 mm;
 .^| n  GW-S-XX – 12-40 mm;
 
 
 
-
+.^| Motorized Zoom and
 .^| Motorized Zoom and
 
 
 
-
+.^| Auto-focus
 .^| Auto-focus
 
 
