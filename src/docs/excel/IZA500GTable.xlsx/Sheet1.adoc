@@ -73,44 +73,44 @@
 
 2.2+.^| LPR Capture Distance* (for U.S.A. plates)
 
-.^a| * G-S-XX - 8-30 ft (2.4-9.1 m)
-.^a| * GW-S-XX - 8-30 ft (2.4-9.1 m)
-.2+.^a| * GR-XX - 8.2-82 ft (2.5-25 m)
+.^| * G-S-XX - 8-30 ft (2.4-9.1 m)
+.^| * GW-S-XX - 8-30 ft (2.4-9.1 m)
+.2+.^| * GR-XX - 8.2-82 ft (2.5-25 m)
 
 
 
-.^a| * G-L-XX - 33-65 ft (10-20 m)
-.^a| * GW-L-XX - 33-65 ft (10-20 m)
+.^| * G-L-XX - 33-65 ft (10-20 m)
+.^| * GW-L-XX - 33-65 ft (10-20 m)
 
 
 .5+.^| LPR Illumination
 .^| Number of LEDs
-.^a| * 15 (same ones as for OV Illumination)
-.^a| * 10
-.^a| * 15 (same ones as for OV Illumination)
+.^| * 15 (same ones as for OV Illumination)
+.^| * 10
+.^| * 15 (same ones as for OV Illumination)
 
 
 .2+.^| Wavelength
-.^a| * G-X-DR - Deep Red
-.^a| * GW-X-DR - Deep Red
-.^a| * GR-DR - Deep Red
+.^| * G-X-DR - Deep Red
+.^| * GW-X-DR - Deep Red
+.^| * GR-DR - Deep Red
 
 
 
-.^a| * G-X-IR - Infrared
-.^a| * GW-X-IR - Infrared
-.^a| * GR-IR - Infrared
+.^| * G-X-IR - Infrared
+.^| * GW-X-IR - Infrared
+.^| * GR-IR - Infrared
 
 
 .2+.^| Beam Angle
-.^a| * G-S-XX - 40°x16°
-.^a| * GW-S-XX - 40°x16°
-.2+.^a| * GR-XX - 40°x16°
+.^| * G-S-XX - 40°x16°
+.^| * GW-S-XX - 40°x16°
+.2+.^| * GR-XX - 40°x16°
 
 
 
-.^a| * G-L-XX - 15°x15°
-.^a| * GW-L-XX - 15°x15°
+.^| * G-L-XX - 15°x15°
+.^| * GW-L-XX - 15°x15°
 
 
 .7+.^| LPR Camera
@@ -133,13 +133,13 @@
 
 
 .2+.^| Lens
-2+.^a| * G/GW-S-XX - 6-22 mm; Motorized Zoom and Auto-focus
+2+.^| * G/GW-S-XX - 6-22 mm; Motorized Zoom and Auto-focus
 
-.2+.^a| * GR-XX - 5-50 mm; Motorized Zoom and Auto-focus
+.2+.^| * GR-XX - 5-50 mm; Motorized Zoom and Auto-focus
 
 
 
-2+.^a| * G/GW-L-XX - 12-40 mm; Motorized Zoom and Auto-focus
+2+.^| * G/GW-L-XX - 12-40 mm; Motorized Zoom and Auto-focus
 
 
 
@@ -157,32 +157,32 @@
 
 .5+.^| OV Illumination
 .^| Number of LEDs
-.^a| * 15 (same ones as for LPR Illumination)
-.^a| * 5
-.^a| * 15 (same ones as for OV Illumination)
+.^| * 15 (same ones as for LPR Illumination)
+.^| * 5
+.^| * 15 (same ones as for OV Illumination)
 
 
 .2+.^| Wavelength
-.^a| * G-X-DR - Deep Red
-.2+.^a| * Visible; Warm White
-.^a| * GR-DR - Deep Red
+.^| * G-X-DR - Deep Red
+.2+.^| * Visible; Warm White
+.^| * GR-DR - Deep Red
 
 
 
-.^a| * G-X-IR - Infrared
+.^| * G-X-IR - Infrared
 
-.^a| * GR-IR - Infrared
+.^| * GR-IR - Infrared
 
 
 .2+.^| Beam Angle
-.^a| * G-S-XX - 40°x16°
-.^a| * GW-S-XX - 40°x16°
-.2+.^a| * GR-XX - 40°x16°
+.^| * G-S-XX - 40°x16°
+.^| * GW-S-XX - 40°x16°
+.2+.^| * GR-XX - 40°x16°
 
 
 
-.^a| * G-L-XX - 15°x15°
-.^a| * GW-L-XX - 15°x15°
+.^| * G-L-XX - 15°x15°
+.^| * GW-L-XX - 15°x15°
 
 
 .7+.^| OV Camera
@@ -205,13 +205,13 @@
 
 
 .2+.^| Lens
-2+.^a| * G/GW-S-XX - 5-50 mm; Motorized Zoom and Auto-focus
+2+.^| * G/GW-S-XX - 5-50 mm; Motorized Zoom and Auto-focus
 
-.2+.^a| * GR-XX - 5-50 mm; Motorized Zoom and Auto-focus
+.2+.^| * GR-XX - 5-50 mm; Motorized Zoom and Auto-focus
 
 
 
-2+.^a| * G/GW-L-XX - 5-50 mm; Motorized Zoom and Auto-focus
+2+.^| * G/GW-L-XX - 5-50 mm; Motorized Zoom and Auto-focus
 
 
 
@@ -385,31 +385,31 @@
 
 
 
-3+.^a| * 3-wire power cable, shielded with a polyethylene jacket; ends terminated with metal rings
+3+.^| * 3-wire power cable, shielded with a polyethylene jacket; ends terminated with metal rings
 
 
 
 
 
-3+.^a| * Digital input (trigger) signal wires and relay output connections (see next items)
+3+.^| * Digital input (trigger) signal wires and relay output connections (see next items)
 
 
 
 
 .2+.^| Digital Inputs (Trigger)
-3+.^a| * Trigger Dry: White (+), Green (-)
+3+.^| * Trigger Dry: White (+), Green (-)
 
 
 
 
 
-3+.^a| * Trigger Wet: Green (+5-24 V), Blue (GND)
+3+.^| * Trigger Wet: Green (+5-24 V), Blue (GND)
 
 
 
 
 .^| Relay Output
-3+.^a| * Dry Contact Relay: Brown (NO), Orange (C)
+3+.^| * Dry Contact Relay: Brown (NO), Orange (C)
 
 
 
